@@ -1,5 +1,5 @@
 # RPAProjects
-Collection of Uipath automation projects developer during my learning process. Some of the project ideas are from trainigs, youtube or RPA whitepapers.
+Collection of Uipath automation projects developer during my learning process. Some of the project ideas are from trainings, youtube or RPA whitepapers.
 
 # Project 1: EmailProcessor
 Project 1 deals with processing of emails from outlook. The project involves Ortchestrator and hence we have 2 bots one as dispatcher 
