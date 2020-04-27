@@ -10,3 +10,6 @@ inputs from Queue and updates the transaction
 
 # Project 2 : Customer Registration
 Project 2 is a simple automation which involves adding new customers to your website. The customer details will be available in excel so the process basically reads the excel and Logs in to the website --> create cutomer section and adds the details fetched from excel and saves the data.
+
+# Project 3 : Image Labeler
+Project 3 deals with Recognizing type of image based on Image content. The project uses Google Cloud Vision API for Analyzing.
